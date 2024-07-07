@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libFLASH_FILES.a"
+)

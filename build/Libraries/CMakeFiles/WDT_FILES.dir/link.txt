@@ -1,0 +1,2 @@
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\ARM-NO~2.EXE qc libWDT_FILES.a CMakeFiles/WDT_FILES.dir/W7500x_StdPeriph_Driver/src/w7500x_wdt.c.obj CMakeFiles/WDT_FILES.dir/CMSIS/Device/WIZnet/W7500/Source/system_w7500x.c.obj
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR17F9~1.EXE libWDT_FILES.a
